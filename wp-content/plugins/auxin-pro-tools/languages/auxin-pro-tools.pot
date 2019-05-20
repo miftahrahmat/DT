@@ -1,0 +1,1697 @@
+# Copyright (C) 2013 averta.ltd
+#, fuzzy
+msgid ""
+msgstr ""
+"Project-Id-Version: Auxin Portfolio\n"
+"Report-Msgid-Bugs-To: http://wordpress.org/plugins/plugin-name\n"
+"POT-Creation-Date: 2017-02-25 12:24+0330\n"
+"PO-Revision-Date: 2015-05-21 20:55+0330\n"
+"Last-Translator: FULL NAME <email@example.com>\n"
+"Language-Team: LANGUAGE <info@averta.net >\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.8.11\n"
+"X-Poedit-KeywordsList: __;_e;_n;_x;esc_html_e;esc_html__;esc_attr_e;"
+"esc_attr__;_ex:1,2c;_nx:4c,1,2;_nx_noop:4c,1,2;_x:1,2c;_n:1,2;_ex\n"
+"X-Poedit-Basepath: ..\n"
+"Plural-Forms: nplurals=2; plural=n != 1;\n"
+"X-Poedit-SourceCharset: UTF-8\n"
+"X-Poedit-SearchPath-0: .\n"
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:12
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:17
+msgid "Portfolio Information"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:24
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:29
+msgid "Featured Image (Secondary)"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:25
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:30
+msgid "Specifies the secondary cover image for this portfolio."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:31
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:36
+msgid "Hide featured image."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:32
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:37
+msgid ""
+"Enable this option to remove the featured image from single page of this "
+"portfolio. Useful when you intent to display images that vary from the "
+"featured image."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:39
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:44
+msgid "Overview"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:40
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:45
+msgid "Specifies a short description about the project."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:47
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:52
+msgid "Info Layout"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:48
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:53
+msgid ""
+"Specifies the alignment of metadata column. (Default: \"right\" for LTR "
+"websites and \"left\" for RTL ones)"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:54
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:126
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:59
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:131
+msgid "Default"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:58
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:63
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:385
+#: build/auxin-portfolio/includes/general-hooks.php:62
+#: includes/elements/recent-portfolios.php:380 includes/general-hooks.php:52
+msgid "Right"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:62
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:67
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:377
+#: build/auxin-portfolio/includes/general-hooks.php:66
+#: includes/elements/recent-portfolios.php:372 includes/general-hooks.php:56
+msgid "Left"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:66
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:71
+#: build/auxin-portfolio/includes/general-hooks.php:70
+#: includes/general-hooks.php:60
+msgid "Bottom"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:100
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:105
+#: build/auxin-portfolio/includes/general-hooks.php:193
+#: includes/general-hooks.php:183
+msgid "Display Next & Previous portfolios"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:101
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:106
+#: build/auxin-portfolio/includes/general-hooks.php:194
+#: includes/general-hooks.php:184
+msgid ""
+"Enable it to display links to next and previous portfolios on single "
+"portfolio page."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:107
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:166
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:179
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:192
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:24
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:59
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:79
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:100
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:120
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:140
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:160
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:112
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:171
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:184
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:197
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:29
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:64
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:84
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:105
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:125
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:145
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:165
+msgid "Theme Default"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:108
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:167
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:180
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:193
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:25
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:101
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:121
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:141
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:161
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:113
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:172
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:185
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:198
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:30
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:106
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:126
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:146
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:166
+msgid "Yes"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:109
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:168
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:181
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:194
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:26
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:102
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:122
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:142
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:162
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:114
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:173
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:186
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:199
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:31
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:107
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:127
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:147
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:167
+msgid "No"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:114
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:119
+#: build/auxin-portfolio/includes/general-hooks.php:205
+#: includes/general-hooks.php:195
+msgid "Skin for Next & Previous Links"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:115
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:120
+#: build/auxin-portfolio/includes/general-hooks.php:206
+#: includes/general-hooks.php:196
+msgid "Specifies the skin for next and previous navigation block."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:130
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:135
+#: build/auxin-portfolio/includes/general-hooks.php:219
+#: includes/general-hooks.php:209
+msgid "Minimal (default)"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:134
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:139
+#: build/auxin-portfolio/includes/general-hooks.php:223
+#: includes/general-hooks.php:213
+msgid "Thumbnail with Arrow"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:138
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:143
+#: build/auxin-portfolio/includes/general-hooks.php:227
+#: includes/general-hooks.php:217
+msgid "Thumbnail without Arrow"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:142
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:147
+#: build/auxin-portfolio/includes/general-hooks.php:231
+#: includes/general-hooks.php:221
+msgid "Navigation with Light Background"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:146
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:151
+#: build/auxin-portfolio/includes/general-hooks.php:235
+#: includes/general-hooks.php:225
+msgid "Navigation with Dark Background"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:150
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:155
+#: build/auxin-portfolio/includes/general-hooks.php:239
+#: includes/general-hooks.php:229
+msgid "Sticky Thumbnail with Arrow"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:160
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:165
+#: build/auxin-portfolio/includes/general-hooks.php:80
+#: includes/general-hooks.php:70
+msgid "Sticky Side Area"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:161
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:166
+msgid "Enable it to stick the side area on page while scrolling."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:173
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:178
+#: build/auxin-portfolio/includes/general-hooks.php:248
+#: includes/general-hooks.php:238
+msgid "Display Single Portfolio Categories"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:174
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:179
+msgid "Specifies whether to display catetory section or not."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:186
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:191
+#: build/auxin-portfolio/includes/general-hooks.php:259
+#: includes/general-hooks.php:249
+msgid "Display Single Portfolio Tags"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:187
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:192
+msgid "Specifies whether to display tag section or not."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:199
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:204
+msgid "Lunch Project Button"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:200
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-metadata.php:205
+msgid ""
+"Specifies an URL for action button in order to lunch the project's webpage. "
+"Leave it empty if you don`t need Lunch Project Button."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:12
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:17
+msgid "Related Portfolio"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:17
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:22
+#: build/auxin-portfolio/includes/general-hooks.php:281
+#: includes/general-hooks.php:271
+msgid "Display Related Portfolios"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:18
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:23
+msgid ""
+"Enable it to display related porfolios section on single portfolio page."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:31
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:36
+#: build/auxin-portfolio/includes/general-hooks.php:293
+#: includes/general-hooks.php:283
+msgid "Label of Related Section"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:32
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:37
+#: build/auxin-portfolio/includes/general-hooks.php:294
+#: includes/general-hooks.php:284
+msgid "Specifies the label of related items section."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:46
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:51
+#: build/auxin-portfolio/includes/general-hooks.php:311
+#: includes/general-hooks.php:301
+msgid "Related Items Type"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:47
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:52
+#: build/auxin-portfolio/includes/general-hooks.php:312
+#: includes/general-hooks.php:302
+msgid "Specifies the appearance type for related portfolio element."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:60
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:65
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:212
+#: build/auxin-portfolio/includes/general-hooks.php:454
+#: build/auxin-portfolio/includes/general-hooks.php:753
+#: includes/elements/recent-portfolios.php:207 includes/general-hooks.php:444
+#: includes/general-hooks.php:743
+msgid "Grid"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:61
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:66
+msgid "Carousel"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:66
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:71
+#: build/auxin-portfolio/includes/general-hooks.php:332
+#: build/auxin-portfolio/includes/general-hooks.php:566
+#: build/auxin-portfolio/includes/general-hooks.php:863
+#: includes/general-hooks.php:322 includes/general-hooks.php:556
+#: includes/general-hooks.php:853
+msgid "Number of Columns"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:87
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:92
+#: build/auxin-portfolio/includes/general-hooks.php:352
+#: includes/general-hooks.php:342
+msgid "Align Center"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:88
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:93
+#: build/auxin-portfolio/includes/general-hooks.php:353
+#: includes/general-hooks.php:343
+msgid "Enable it to make related portfolios section text center."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:107
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:112
+#: build/auxin-portfolio/includes/general-hooks.php:370
+#: includes/general-hooks.php:360
+msgid "Full Width Related Section"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:108
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:113
+#: build/auxin-portfolio/includes/general-hooks.php:371
+#: includes/general-hooks.php:361
+msgid "Enable it to make related portfolios section full width."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:127
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:132
+#: build/auxin-portfolio/includes/general-hooks.php:388
+#: includes/general-hooks.php:378
+msgid "Snap Related Items"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:128
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:133
+#: build/auxin-portfolio/includes/general-hooks.php:389
+#: includes/general-hooks.php:379
+msgid "Enable it to remove space between related portfolio items."
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:147
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:152
+#: build/auxin-portfolio/includes/general-hooks.php:406
+#: includes/general-hooks.php:396
+msgid "Display Portfolio Categories"
+msgstr ""
+
+#: admin/includes/metaboxes/metabox-fields-portfolio-related.php:148
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:153
+#: build/auxin-portfolio/includes/general-hooks.php:407
+#: includes/general-hooks.php:397
+msgid ""
+"Enable it to display the categories of each portfolio item in related "
+"portfolios section."
+msgstr ""
+
+#: auxin-portfolio.php:42 build/auxin-portfolio/auxin-portfolio.php:47
+msgid "PHP version 5.3.0 or above is required for \"Auxin Portfolio\" plugin"
+msgstr ""
+
+#: auxin-portfolio.php:55 build/auxin-portfolio/auxin-portfolio.php:60
+#, php-format
+msgid ""
+"You are using %1$s theme version %2$s. You need to update the %1$s theme to "
+"latest version in order to use %3$s plugin"
+msgstr ""
+
+#: auxin-portfolio.php:58 build/auxin-portfolio/auxin-portfolio.php:63
+msgid "Auxin Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:85
+msgid "1"
+msgstr ""
+
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:86
+msgid "2"
+msgstr ""
+
+#: build/auxin-portfolio/admin/includes/metaboxes/metabox-fields-portfolio-related.php:87
+msgid "3"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:53
+msgctxt ""
+msgid "Portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:54
+#: build/auxin-portfolio/includes/general-hooks.php:39
+#: includes/classes/class-auxpfo-post-type-portfolio.php:49
+#: includes/general-hooks.php:29
+msgid "Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:55
+#: includes/classes/class-auxpfo-post-type-portfolio.php:50
+msgctxt "Admin menu name"
+msgid "Portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:56
+#: includes/classes/class-auxpfo-post-type-portfolio.php:51
+msgid "Add New"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:57
+#: includes/classes/class-auxpfo-post-type-portfolio.php:52
+msgid "All Portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:58
+#: includes/classes/class-auxpfo-post-type-portfolio.php:53
+msgid "Add New Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:59
+#: includes/classes/class-auxpfo-post-type-portfolio.php:54
+msgid "Edit Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:60
+#: includes/classes/class-auxpfo-post-type-portfolio.php:55
+msgid "New Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:61
+#: includes/classes/class-auxpfo-post-type-portfolio.php:56
+msgid "View Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:62
+#: includes/classes/class-auxpfo-post-type-portfolio.php:57
+msgid "Search Portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:63
+#: includes/classes/class-auxpfo-post-type-portfolio.php:58
+msgid "Parent Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:64
+#: includes/classes/class-auxpfo-post-type-portfolio.php:59
+msgid "No Portfolios found"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:65
+#: includes/classes/class-auxpfo-post-type-portfolio.php:60
+msgid "No Portfolios found in Trash"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:70
+#: includes/classes/class-auxpfo-post-type-portfolio.php:65
+msgid "Here you can add new portfolio to your website."
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:104
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:123
+#: includes/classes/class-auxpfo-post-type-portfolio.php:99
+#: includes/classes/class-auxpfo-post-type-portfolio.php:118
+msgid "Portfolio Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:105
+#: includes/classes/class-auxpfo-post-type-portfolio.php:100
+msgid "Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:106
+#: includes/classes/class-auxpfo-post-type-portfolio.php:101
+msgid "All Portfolio Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:107
+#: includes/classes/class-auxpfo-post-type-portfolio.php:102
+msgid "Parent Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:108
+#: includes/classes/class-auxpfo-post-type-portfolio.php:103
+msgid "Parent Portfolio Category:"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:109
+#: includes/classes/class-auxpfo-post-type-portfolio.php:104
+msgid "Edit Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:110
+#: includes/classes/class-auxpfo-post-type-portfolio.php:105
+msgid "Update Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:111
+#: includes/classes/class-auxpfo-post-type-portfolio.php:106
+msgid "Add New Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:112
+#: includes/classes/class-auxpfo-post-type-portfolio.php:107
+msgid "New Portfolio Category"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:113
+#: includes/classes/class-auxpfo-post-type-portfolio.php:108
+msgid "Search in Portfolio Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:114
+#: includes/classes/class-auxpfo-post-type-portfolio.php:109
+msgctxt "portfolio-cat admin menu name"
+msgid "Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:135
+#: includes/classes/class-auxpfo-post-type-portfolio.php:130
+msgctxt "taxonomy slug"
+msgid "portfolio-cat"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:147
+#: includes/classes/class-auxpfo-post-type-portfolio.php:142
+msgid "Portfolio Tags / Filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:148
+#: includes/classes/class-auxpfo-post-type-portfolio.php:143
+msgid "Portfolio Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:149
+#: includes/classes/class-auxpfo-post-type-portfolio.php:144
+msgid "Search in Portfolio Tags/filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:150
+#: includes/classes/class-auxpfo-post-type-portfolio.php:145
+msgid "Popular Tags/filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:151
+#: includes/classes/class-auxpfo-post-type-portfolio.php:146
+msgid "All Portfolio Tags/filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:152
+#: includes/classes/class-auxpfo-post-type-portfolio.php:147
+msgid "Parent Portfolio Tag"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:153
+#: includes/classes/class-auxpfo-post-type-portfolio.php:148
+msgid "Parent Portfolio Tag:"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:154
+#: includes/classes/class-auxpfo-post-type-portfolio.php:149
+msgid "Edit Portfolio Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:155
+#: includes/classes/class-auxpfo-post-type-portfolio.php:150
+msgid "Update Portfolio Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:156
+#: includes/classes/class-auxpfo-post-type-portfolio.php:151
+msgid "Add new Portfolio Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:157
+#: includes/classes/class-auxpfo-post-type-portfolio.php:152
+msgid "New Portfolio Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:159
+#: includes/classes/class-auxpfo-post-type-portfolio.php:154
+msgid "Separate tags with commas"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:160
+#: includes/classes/class-auxpfo-post-type-portfolio.php:155
+msgid "Add or remove Tag/Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:161
+#: includes/classes/class-auxpfo-post-type-portfolio.php:156
+msgid "Choose from the most used tags"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:162
+#: includes/classes/class-auxpfo-post-type-portfolio.php:157
+msgctxt "portfolio-tag admin menu name"
+msgid "Tags ( Filters )"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:171
+#: includes/classes/class-auxpfo-post-type-portfolio.php:166
+msgid "Portfolio Tags/Filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:183
+#: includes/classes/class-auxpfo-post-type-portfolio.php:178
+msgctxt "taxonomy slug"
+msgid "portfolio-tag"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:203
+#: includes/classes/class-auxpfo-post-type-portfolio.php:198
+msgctxt "Image column at portfolio edit columns"
+msgid "Image"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:204
+#: includes/classes/class-auxpfo-post-type-portfolio.php:199
+msgctxt "Title column at portfolio edit columns"
+msgid "Title"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:205
+#: includes/classes/class-auxpfo-post-type-portfolio.php:200
+msgctxt "Type  column at portfolio edit columns"
+msgid "Category / Type"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:206
+#: includes/classes/class-auxpfo-post-type-portfolio.php:201
+msgctxt "Tag/Filter column at portfolio edit columns"
+msgid "Tag / Filter"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:207
+#: includes/classes/class-auxpfo-post-type-portfolio.php:202
+msgctxt "Date  column at portfolio edit columns"
+msgid "Release Date"
+msgstr ""
+
+#: build/auxin-portfolio/includes/classes/class-auxpfo-post-type-portfolio.php:248
+#: includes/classes/class-auxpfo-post-type-portfolio.php:243
+msgid ""
+"This is an image that is chosen as the representative/cover image for your "
+"project."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:20
+#: includes/elements/recent-portfolios.php:15
+msgid "All Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:26
+#: includes/elements/recent-portfolios.php:21
+msgid "[Phlox] Recent Portfolio on Grid, Tile and Masonry"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:29
+#: includes/elements/recent-portfolios.php:24
+msgid "It adds recent portfolio items in gird, tile or masonry style."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:53
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:150
+#: includes/elements/recent-portfolios.php:48
+#: includes/elements/recent-portfolios.php:145
+msgid "Title"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:54
+#: includes/elements/recent-portfolios.php:49
+msgid "Recent items title, leave it empty if you don`t need title."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:68
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:358
+#: includes/elements/recent-portfolios.php:63
+#: includes/elements/recent-portfolios.php:353
+msgid "Categories"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:69
+#: includes/elements/recent-portfolios.php:64
+msgid "Specifies a category that you want to show portfolio items from it."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:83
+#: includes/elements/recent-portfolios.php:78
+msgid "Number of items to show"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:84
+#: includes/elements/recent-portfolios.php:79
+msgid "Leave it empty to show all items"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:98
+#: includes/elements/recent-portfolios.php:93
+msgid "Only portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:99
+#: includes/elements/recent-portfolios.php:94
+msgid ""
+"If you intend to display ONLY specific portfolios, you should specify them "
+"here. You have to insert the post IDs that are separated by comma (eg. "
+"53,34,87,25)."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:112
+#: includes/elements/recent-portfolios.php:107
+msgid "Include portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:113
+#: includes/elements/recent-portfolios.php:108
+msgid ""
+"If you intend to include additional portfolios, you should specify them "
+"here. You have to insert the Post IDs that are separated by comma (eg. "
+"53,34,87,25)"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:126
+#: includes/elements/recent-portfolios.php:121
+msgid "Exclude posts"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:127
+#: includes/elements/recent-portfolios.php:122
+msgid ""
+"If you intend to exclude specific posts from result, you should specify the "
+"posts here. You have to insert the Post IDs that are separated by comma (eg. "
+"53,34,87,25)"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:140
+#: includes/elements/recent-portfolios.php:135
+msgid "Order by"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:148
+#: includes/elements/recent-portfolios.php:143
+msgid "Date"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:149
+#: includes/elements/recent-portfolios.php:144
+msgid "Menu Order"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:151
+#: includes/elements/recent-portfolios.php:146
+msgid "ID"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:152
+#: includes/elements/recent-portfolios.php:147
+msgid "Random"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:153
+#: includes/elements/recent-portfolios.php:148
+msgid "Comments"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:154
+#: includes/elements/recent-portfolios.php:149
+msgid "Date Modified"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:155
+#: build/auxin-portfolio/includes/general-hooks.php:1083
+#: includes/elements/recent-portfolios.php:150 includes/general-hooks.php:1073
+msgid "Author"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:156
+#: includes/elements/recent-portfolios.php:151
+msgid "Inserted Post IDs"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:166
+#: includes/elements/recent-portfolios.php:161
+msgid "Order"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:174
+#: includes/elements/recent-portfolios.php:169
+msgid "Descending"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:175
+#: includes/elements/recent-portfolios.php:170
+msgid "Ascending"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:184
+#: includes/elements/recent-portfolios.php:179
+msgid "Start offset"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:185
+#: includes/elements/recent-portfolios.php:180
+msgid "Number of post to displace or pass over."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:198
+#: includes/elements/recent-portfolios.php:193
+msgid "Layout"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:199
+#: includes/elements/recent-portfolios.php:194
+msgid "Different layout types of appearing items."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:216
+#: build/auxin-portfolio/includes/general-hooks.php:458
+#: build/auxin-portfolio/includes/general-hooks.php:757
+#: includes/elements/recent-portfolios.php:211 includes/general-hooks.php:448
+#: includes/general-hooks.php:747
+msgid "Masonry"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:220
+#: build/auxin-portfolio/includes/general-hooks.php:462
+#: build/auxin-portfolio/includes/general-hooks.php:761
+#: includes/elements/recent-portfolios.php:215 includes/general-hooks.php:452
+#: includes/general-hooks.php:751
+msgid "Tiles"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:232
+#: includes/elements/recent-portfolios.php:227
+msgid "Image aspect ratio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:240
+#: build/auxin-portfolio/includes/general-hooks.php:488
+#: build/auxin-portfolio/includes/general-hooks.php:787
+#: includes/elements/recent-portfolios.php:235 includes/general-hooks.php:478
+#: includes/general-hooks.php:777
+msgid "Horizontal 4:3"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:241
+#: build/auxin-portfolio/includes/general-hooks.php:489
+#: build/auxin-portfolio/includes/general-hooks.php:788
+#: includes/elements/recent-portfolios.php:236 includes/general-hooks.php:479
+#: includes/general-hooks.php:778
+msgid "Horizontal 16:9"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:242
+#: build/auxin-portfolio/includes/general-hooks.php:490
+#: build/auxin-portfolio/includes/general-hooks.php:789
+#: includes/elements/recent-portfolios.php:237 includes/general-hooks.php:480
+#: includes/general-hooks.php:779
+msgid "Square 1:1"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:243
+#: build/auxin-portfolio/includes/general-hooks.php:491
+#: build/auxin-portfolio/includes/general-hooks.php:790
+#: includes/elements/recent-portfolios.php:238 includes/general-hooks.php:481
+#: includes/general-hooks.php:780
+msgid "Vertical 3:4"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:255
+#: includes/elements/recent-portfolios.php:250
+msgid "Exclude portfolios without media"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:269
+#: includes/elements/recent-portfolios.php:264
+msgid "Portfolio hover type"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:283
+#: build/auxin-portfolio/includes/general-hooks.php:511
+#: build/auxin-portfolio/includes/general-hooks.php:810
+#: includes/elements/recent-portfolios.php:278 includes/general-hooks.php:501
+#: includes/general-hooks.php:800
+msgid "Classic"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:284
+#: build/auxin-portfolio/includes/general-hooks.php:512
+#: build/auxin-portfolio/includes/general-hooks.php:811
+#: includes/elements/recent-portfolios.php:279 includes/general-hooks.php:502
+#: includes/general-hooks.php:801
+msgid "Classic with lightbox style 1"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:285
+#: build/auxin-portfolio/includes/general-hooks.php:513
+#: build/auxin-portfolio/includes/general-hooks.php:812
+#: includes/elements/recent-portfolios.php:280 includes/general-hooks.php:503
+#: includes/general-hooks.php:802
+msgid "Classic with lightbox style 2"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:286
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:307
+#: build/auxin-portfolio/includes/general-hooks.php:514
+#: build/auxin-portfolio/includes/general-hooks.php:537
+#: build/auxin-portfolio/includes/general-hooks.php:813
+#: build/auxin-portfolio/includes/general-hooks.php:836
+#: includes/elements/recent-portfolios.php:281
+#: includes/elements/recent-portfolios.php:302 includes/general-hooks.php:504
+#: includes/general-hooks.php:527 includes/general-hooks.php:803
+#: includes/general-hooks.php:826
+msgid "Overlay title style 1"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:287
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:308
+#: build/auxin-portfolio/includes/general-hooks.php:515
+#: build/auxin-portfolio/includes/general-hooks.php:538
+#: build/auxin-portfolio/includes/general-hooks.php:814
+#: build/auxin-portfolio/includes/general-hooks.php:837
+#: includes/elements/recent-portfolios.php:282
+#: includes/elements/recent-portfolios.php:303 includes/general-hooks.php:505
+#: includes/general-hooks.php:528 includes/general-hooks.php:804
+#: includes/general-hooks.php:827
+msgid "Overlay title style 2"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:288
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:309
+#: build/auxin-portfolio/includes/general-hooks.php:516
+#: build/auxin-portfolio/includes/general-hooks.php:539
+#: build/auxin-portfolio/includes/general-hooks.php:815
+#: build/auxin-portfolio/includes/general-hooks.php:838
+#: includes/elements/recent-portfolios.php:283
+#: includes/elements/recent-portfolios.php:304 includes/general-hooks.php:506
+#: includes/general-hooks.php:529 includes/general-hooks.php:805
+#: includes/general-hooks.php:828
+msgid "Overlay title with lightbox style 1"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:289
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:310
+#: build/auxin-portfolio/includes/general-hooks.php:517
+#: build/auxin-portfolio/includes/general-hooks.php:540
+#: build/auxin-portfolio/includes/general-hooks.php:816
+#: build/auxin-portfolio/includes/general-hooks.php:839
+#: includes/elements/recent-portfolios.php:284
+#: includes/elements/recent-portfolios.php:305 includes/general-hooks.php:507
+#: includes/general-hooks.php:530 includes/general-hooks.php:806
+#: includes/general-hooks.php:829
+msgid "Overlay title with lightbox style 2"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:293
+#: includes/elements/recent-portfolios.php:288
+msgid "Portfolio item type"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:314
+#: includes/elements/recent-portfolios.php:309
+msgid "Insert portfolio title"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:327
+#: includes/elements/recent-portfolios.php:322
+msgid "Insert portfolio meta"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:339
+#: includes/elements/recent-portfolios.php:334
+msgid "Show filters"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:351
+#: includes/elements/recent-portfolios.php:346
+msgid "Filter by"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:352
+#: includes/elements/recent-portfolios.php:347
+msgid "Filter by categories or tags"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:359
+#: includes/elements/recent-portfolios.php:354
+msgid "Tags"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:370
+#: includes/elements/recent-portfolios.php:365
+msgid "Filter Control Alignment"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:381
+#: includes/elements/recent-portfolios.php:376
+msgid "Center"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:398
+#: includes/elements/recent-portfolios.php:393
+msgid "Filter button style"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:399
+#: includes/elements/recent-portfolios.php:394
+msgid "Style of filter buttons."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:412
+#: includes/elements/recent-portfolios.php:407
+msgid "Slide up"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:413
+#: includes/elements/recent-portfolios.php:408
+msgid "Fill"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:414
+#: includes/elements/recent-portfolios.php:409
+msgid "Cube"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:415
+#: includes/elements/recent-portfolios.php:410
+msgid "Underline"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:416
+#: includes/elements/recent-portfolios.php:411
+msgid "Float frame"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:417
+#: includes/elements/recent-portfolios.php:412
+msgid "Borderd"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:418
+#: includes/elements/recent-portfolios.php:413
+msgid "Float underline"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:424
+#: includes/elements/recent-portfolios.php:419
+msgid "Display like button"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:425
+#: includes/elements/recent-portfolios.php:420
+#, php-format
+msgid ""
+"Enable it to display %s like button%s on gride template blog. Please note WP "
+"Ulike plugin needs to be activaited to use this option."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:442
+#: includes/elements/recent-portfolios.php:437
+msgid "Deeplink"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:443
+#: includes/elements/recent-portfolios.php:438
+msgid ""
+"Enables the deeplink feature, it updates URL based on page and filter status."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:454
+#: includes/elements/recent-portfolios.php:449
+msgid "Deeplink slug"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:455
+#: includes/elements/recent-portfolios.php:450
+msgid "Specifies the deeplink slug value in address bar."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:471
+#: includes/elements/recent-portfolios.php:466
+msgid "Paginate"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:472
+#: includes/elements/recent-portfolios.php:467
+msgid "Paginates the portfolio items"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:483
+#: includes/elements/recent-portfolios.php:478
+msgid "Items number perpage"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:499
+#: build/auxin-portfolio/includes/general-hooks.php:547
+#: build/auxin-portfolio/includes/general-hooks.php:846
+#: includes/elements/recent-portfolios.php:494 includes/general-hooks.php:537
+#: includes/general-hooks.php:836
+msgid "Space"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:500
+#: build/auxin-portfolio/includes/general-hooks.php:548
+#: build/auxin-portfolio/includes/general-hooks.php:847
+#: includes/elements/recent-portfolios.php:495 includes/general-hooks.php:538
+#: includes/general-hooks.php:837
+msgid "Specifies space between items in pixels."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:516
+#: includes/elements/recent-portfolios.php:511
+msgid "Number of columns"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:537
+#: includes/elements/recent-portfolios.php:532
+msgid "Number of columns in tablet size"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:559
+#: includes/elements/recent-portfolios.php:554
+msgid "Number of columns in phone size"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:579
+#: includes/elements/recent-portfolios.php:574
+msgid "Extra class name"
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:580
+#: includes/elements/recent-portfolios.php:575
+msgid ""
+"If you wish to style particular content element differently, then use this "
+"field to add a class name and then refer to it in your css file."
+msgstr ""
+
+#: build/auxin-portfolio/includes/elements/recent-portfolios.php:804
+#: includes/elements/recent-portfolios.php:799
+msgid "all"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:40
+#: includes/general-hooks.php:30
+msgid "Portfolio Setting"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:49
+#: includes/general-hooks.php:39
+msgid "Single Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:50
+#: includes/general-hooks.php:40
+msgid "Single Portfolio Setting"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:55
+#: includes/general-hooks.php:45
+msgid "Single Portfolio Style"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:56
+#: build/auxin-portfolio/includes/general-hooks.php:98
+#: includes/general-hooks.php:46 includes/general-hooks.php:88
+msgid "Specifies position of sidebar on single portfolio."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:81
+#: includes/general-hooks.php:71
+msgid "Enable it to stick the side area on page while scrolling.."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:97
+#: includes/general-hooks.php:87
+msgid "Single portfolio Sidebar Position"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:105
+#: build/auxin-portfolio/includes/general-hooks.php:655
+#: build/auxin-portfolio/includes/general-hooks.php:961
+#: includes/general-hooks.php:95 includes/general-hooks.php:645
+#: includes/general-hooks.php:951
+msgid "No Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:109
+#: build/auxin-portfolio/includes/general-hooks.php:659
+#: build/auxin-portfolio/includes/general-hooks.php:965
+#: includes/general-hooks.php:99 includes/general-hooks.php:649
+#: includes/general-hooks.php:955
+msgid "Right Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:113
+#: build/auxin-portfolio/includes/general-hooks.php:663
+#: build/auxin-portfolio/includes/general-hooks.php:969
+#: includes/general-hooks.php:103 includes/general-hooks.php:653
+#: includes/general-hooks.php:959
+msgid "Left Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:117
+#: build/auxin-portfolio/includes/general-hooks.php:667
+#: build/auxin-portfolio/includes/general-hooks.php:973
+#: includes/general-hooks.php:107 includes/general-hooks.php:657
+#: includes/general-hooks.php:963
+msgid "Left Left Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:121
+#: build/auxin-portfolio/includes/general-hooks.php:671
+#: build/auxin-portfolio/includes/general-hooks.php:977
+#: includes/general-hooks.php:111 includes/general-hooks.php:661
+#: includes/general-hooks.php:967
+msgid "Right Right Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:125
+#: build/auxin-portfolio/includes/general-hooks.php:675
+#: build/auxin-portfolio/includes/general-hooks.php:981
+#: includes/general-hooks.php:115 includes/general-hooks.php:665
+#: includes/general-hooks.php:971
+msgid "Left Right Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:129
+#: build/auxin-portfolio/includes/general-hooks.php:679
+#: build/auxin-portfolio/includes/general-hooks.php:985
+#: includes/general-hooks.php:119 includes/general-hooks.php:669
+#: includes/general-hooks.php:975
+msgid "Right Left Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:138
+#: includes/general-hooks.php:128
+msgid "Single portfolio Sidebar Style"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:153
+#: build/auxin-portfolio/includes/general-hooks.php:706
+#: build/auxin-portfolio/includes/general-hooks.php:1008
+#: includes/general-hooks.php:143 includes/general-hooks.php:696
+#: includes/general-hooks.php:998
+msgid "Simple"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:157
+#: build/auxin-portfolio/includes/general-hooks.php:710
+#: build/auxin-portfolio/includes/general-hooks.php:1012
+#: includes/general-hooks.php:147 includes/general-hooks.php:700
+#: includes/general-hooks.php:1002
+msgid "Bordered Sidebar"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:161
+#: build/auxin-portfolio/includes/general-hooks.php:714
+#: build/auxin-portfolio/includes/general-hooks.php:1016
+#: includes/general-hooks.php:151 includes/general-hooks.php:704
+#: includes/general-hooks.php:1006
+msgid "Overlap Background"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:249
+#: includes/general-hooks.php:239
+msgid "Enable it to display category section in single portfolio."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:260
+#: includes/general-hooks.php:250
+msgid "Enable it to display Tag section in single portfolio."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:275
+#: includes/general-hooks.php:265
+msgid "Related Portfolios"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:276
+#: includes/general-hooks.php:266
+msgid "Setting for Related Portfolios Section in Single Page"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:282
+#: includes/general-hooks.php:272
+msgid ""
+"Enable it to display related portfolios section on single portfolio page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:306
+#: includes/general-hooks.php:296
+msgid "Related Projects/Works"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:439
+#: includes/general-hooks.php:429
+msgid "Portfolio Page"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:440
+#: includes/general-hooks.php:430
+msgid "Setting for portfolio Archive Page"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:445
+#: includes/general-hooks.php:435
+msgid "Portfolio Template"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:446
+#: includes/general-hooks.php:436
+msgid "Choose your portfolio template."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:466
+#: build/auxin-portfolio/includes/general-hooks.php:765
+#: includes/general-hooks.php:456 includes/general-hooks.php:755
+msgid "Land"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:475
+#: build/auxin-portfolio/includes/general-hooks.php:774
+#: includes/general-hooks.php:465 includes/general-hooks.php:764
+msgid "Image Aspect Ratio"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:498
+#: build/auxin-portfolio/includes/general-hooks.php:797
+#: includes/general-hooks.php:488 includes/general-hooks.php:787
+msgid "Portfolio Hover Type"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:499
+#: build/auxin-portfolio/includes/general-hooks.php:525
+#: build/auxin-portfolio/includes/general-hooks.php:798
+#: build/auxin-portfolio/includes/general-hooks.php:824
+#: includes/general-hooks.php:489 includes/general-hooks.php:515
+#: includes/general-hooks.php:788 includes/general-hooks.php:814
+msgid "Specifies the portfolio item type."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:524
+#: build/auxin-portfolio/includes/general-hooks.php:823
+#: includes/general-hooks.php:514 includes/general-hooks.php:813
+msgid "Tile Portfolio Item Type"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:587
+#: build/auxin-portfolio/includes/general-hooks.php:884
+#: includes/general-hooks.php:577 includes/general-hooks.php:874
+msgid "Number of Columns in Tablet"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:609
+#: build/auxin-portfolio/includes/general-hooks.php:906
+#: includes/general-hooks.php:599 includes/general-hooks.php:896
+msgid "Number of Columns in Mobile"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:630
+#: build/auxin-portfolio/includes/general-hooks.php:927
+#: includes/general-hooks.php:620 includes/general-hooks.php:917
+msgid "Display Like Button"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:631
+#: build/auxin-portfolio/includes/general-hooks.php:928
+#: includes/general-hooks.php:621 includes/general-hooks.php:918
+#, php-format
+msgid ""
+"Enable it to display %s like button%s on portfolio portfolios. Please note "
+"WP Ulike plugin needs to be activaited to use this option."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:648
+#: includes/general-hooks.php:638
+msgid "Portfolio Sidebar Position"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:649
+#: includes/general-hooks.php:639
+msgid "Specifies the position of sidebar on portfolio page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:691
+#: includes/general-hooks.php:681
+msgid "Portfolio Sidebar Style"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:692
+#: includes/general-hooks.php:682
+msgid "Specifies the style of sidebar on portfolio page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:723
+#: includes/general-hooks.php:713
+msgid "Number of Portfolios Per Page"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:724
+#: includes/general-hooks.php:714
+msgid "Specifies the number of portfolios items to show on each page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:739
+#: includes/general-hooks.php:729
+msgid "Portfolio Category & tag"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:740
+#: includes/general-hooks.php:730
+msgid "Portfolio Category & tag page Setting"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:744
+#: includes/general-hooks.php:734
+msgid "Taxonomy Page Template"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:953
+#: includes/general-hooks.php:943
+msgid "Taxonomy Page Sidebar Position"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:994
+#: includes/general-hooks.php:984
+msgid "Sidebar Style"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:995
+#: includes/general-hooks.php:985
+msgid "Specifies the style of sidebar on category & tag page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1025
+#: includes/general-hooks.php:1015
+msgid "Taxonomy content length"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1026
+#: includes/general-hooks.php:1016
+#, php-format
+msgid ""
+"Whether to display%1$ssummary%2$sor%1$sfull%2$scontent for each portfolio on "
+"category & tag page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1033
+#: includes/general-hooks.php:1023
+msgid "Full text"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1037
+#: includes/general-hooks.php:1027
+msgid "Summary"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1047
+#: includes/general-hooks.php:1037
+msgid "Summery length"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1048
+#: includes/general-hooks.php:1038
+msgid "Specifies summary character length on category & tag page."
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1068
+#: includes/general-hooks.php:1058
+msgid "Portfolio MetaData"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1069
+#: includes/general-hooks.php:1059
+msgid "Portfolio MetaData Setting"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1073
+#: includes/general-hooks.php:1063
+msgid "Portfolio MetaDatas"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1074
+#: includes/general-hooks.php:1064
+msgid ""
+"Specify the number of fields and the label of each one for portfolio "
+"metadatas"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1080
+#: includes/general-hooks.php:1070
+msgid "Project URL"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1081
+#: includes/general-hooks.php:1071
+msgid "Client"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1082
+#: includes/general-hooks.php:1072
+msgid "Release Date"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1084
+#: includes/general-hooks.php:1074
+msgid "Custom Field 1"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1085
+#: includes/general-hooks.php:1075
+msgid "Custom Field 2"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1086
+#: includes/general-hooks.php:1076
+msgid "Custom Field 3"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1087
+#: includes/general-hooks.php:1077
+msgid "Custom Field 4"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1088
+#: includes/general-hooks.php:1078
+msgid "Custom Field 5"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1089
+#: includes/general-hooks.php:1079
+msgid "Custom Field 6"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1090
+#: includes/general-hooks.php:1080
+msgid "Custom Field 7"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1091
+#: includes/general-hooks.php:1081
+msgid "Custom Field 8"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1092
+#: includes/general-hooks.php:1082
+msgid "Custom Field 9"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1093
+#: includes/general-hooks.php:1083
+msgid "Custom Field 10"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1094
+#: includes/general-hooks.php:1084
+msgid "Custom Field 11"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1095
+#: includes/general-hooks.php:1085
+msgid "Custom Field 12"
+msgstr ""
+
+#: build/auxin-portfolio/includes/general-hooks.php:1135
+#: includes/general-hooks.php:1125
+msgid "Portfolio Options"
+msgstr ""
+
+#: build/auxin-portfolio/public/includes/templates-post.php:177
+#: public/includes/templates-post.php:177
+msgid "Please activate \"Auxin Elements\" plugin."
+msgstr ""
+
+#: build/auxin-portfolio/public/includes/templates-post.php:184
+#: build/auxin-portfolio/public/templates/single-portfolio.php:80
+#: public/includes/templates-post.php:184
+#: public/templates/single-portfolio.php:75
+msgid "Related Projects"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/single-portfolio.php:54
+#: public/templates/single-portfolio.php:49
+msgid "Previous Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/single-portfolio.php:55
+#: public/templates/single-portfolio.php:50
+msgid "Next Portfolio"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-column-overlay.php:48
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-column.php:57
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-land.php:82
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio.php:32
+#: build/auxin-portfolio/public/templates/theme-parts/entry/single-portfolio.php:105
+#: build/auxin-portfolio/public/templates/theme-parts/entry/single-portfolio.php:117
+#: public/templates/theme-parts/entry/portfolio-column-overlay.php:48
+#: public/templates/theme-parts/entry/portfolio-column.php:57
+#: public/templates/theme-parts/entry/portfolio-land.php:82
+#: public/templates/theme-parts/entry/portfolio.php:32
+#: public/templates/theme-parts/entry/single-portfolio.php:105
+#: public/templates/theme-parts/entry/single-portfolio.php:117
+msgid "View all posts in "
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-column.php:63
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-column.php:65
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-land.php:88
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio-land.php:90
+#: build/auxin-portfolio/public/templates/theme-parts/entry/portfolio.php:37
+#: public/templates/theme-parts/entry/portfolio-column.php:63
+#: public/templates/theme-parts/entry/portfolio-column.php:65
+#: public/templates/theme-parts/entry/portfolio-land.php:88
+#: public/templates/theme-parts/entry/portfolio-land.php:90
+#: public/templates/theme-parts/entry/portfolio.php:37
+msgid "Edit"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/theme-parts/entry/single-portfolio.php:52
+#: public/templates/theme-parts/entry/single-portfolio.php:52
+msgid "Share"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/theme-parts/entry/single-portfolio.php:136
+#: public/templates/theme-parts/entry/single-portfolio.php:136
+msgid "Lunch Project"
+msgstr ""
+
+#: build/auxin-portfolio/public/templates/theme-parts/loop-portfolio.php:58
+#: build/auxin-portfolio/public/templates/theme-parts/tax-portfolio.php:60
+#: public/templates/theme-parts/loop-portfolio.php:58
+#: public/templates/theme-parts/tax-portfolio.php:60
+msgid "To enable this feature, please install \"Auxin Portfolio\" plugin."
+msgstr ""
+
+#: includes/classes/class-auxpfo-post-type-portfolio.php:48
+msgid "Portfolios"
+msgstr ""
